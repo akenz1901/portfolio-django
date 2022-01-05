@@ -1,0 +1,30 @@
+.navbar-nav .nav-link {
+    color: floralwhite !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: purple !important;
+}
+.blogtitle:hover{
+    color: purple !important;
+}
+
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+
+@media (min-width: 200px) {
+    #hometext {
+        font-size: 100%;
+    }
+    #blogdetailtitle {
+        font-size: 4rem;
+    }
+    #blogtitle {
+    font-size: 2rem;
+}
+}
